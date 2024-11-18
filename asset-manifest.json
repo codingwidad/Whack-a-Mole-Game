@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Whack-a-Mole-Game/static/css/main.2709c250.css",
+    "main.js": "/Whack-a-Mole-Game/static/js/main.de8d37e2.js",
+    "index.html": "/Whack-a-Mole-Game/index.html",
+    "main.2709c250.css.map": "/Whack-a-Mole-Game/static/css/main.2709c250.css.map",
+    "main.de8d37e2.js.map": "/Whack-a-Mole-Game/static/js/main.de8d37e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2709c250.css",
+    "static/js/main.de8d37e2.js"
+  ]
+}
